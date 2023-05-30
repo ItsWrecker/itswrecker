@@ -1,29 +1,36 @@
-# Hi there 👋, I'm Santosh Mehta!
+# Hello World! 🌐 I'm Santosh Mehta, an Android enthusiast! 👨‍💻
 
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Profile views](https://gpvc.arturio.dev/itswrecker) ![Years Badge](https://badges.pufler.dev/years/itswrecker) ![Repos Badge](https://badges.pufler.dev/repos/itswrecker)
 
-I'm an experienced Senior Software Engineer with over 4 years of experience specializing in native Android development. I have a profound expertise in Kotlin and C++, and a strong foundation in Android components, design patterns, and the entire mobile development lifecycle. My focus on performance optimization and user-experience driven design ensures that I deliver top-notch, intuitive, and efficient applications.
+## About me
 
-## My Skills:
-- **Languages:** Kotlin, C++, Java
-- **Architecture:** Coroutines, Flow MVVM, MVI, MVP
-- **Design:** Clean Architecture, SOLID Principles
-- **Dependency Injection:** Dagger2, Hilt, Koin
-- **Task Management:** WorkManager
-- **APIs:** Camera2 APIs, CameraX APIs
-- **Codecs:** MediaCodecs, MediaMuxer
-- **Testing:** Junit4/5, Espresso, Kotest
-- **Database:** Room, SQLDelight, DataStore
-- **Networking:** Retrofit, Ktor, gRPC, GraphQL
-- **UI:** Jetpack Compose, XML, OpenGL
+🎓 I'm an experienced Senior Software Engineer with a B.E. degree in Computer Science and over 4 years of experience in native Android development.
 
-## Career Highlights:
-Over the course of my career, I've contributed to various significant projects, but my work at [Loconav India Pvt Ltd](https://loconav.com) stands out. Here, as a Senior Software Engineer, I played a significant role in developing the VideoTelematics: Dash Cam Application. This feature-rich Android application, developed using Kotlin and C++, provides comprehensive video telematics features that enhance the driving experience and improve road safety.
+📱 I've been passionate about mobile technologies, I love to build apps that are robust, efficient, and provide a delightful user experience.
 
-## Contributions:
-I believe in collaboration and am always open to team up for exciting projects. Check out my contributions here on [GitHub](https://www.github.com/itswrecker).
+🔧 I'm proficient in Kotlin, C++, and Java, with a strong knowledge of Android components, design patterns, and the complete mobile development lifecycle.
 
-## Want to Connect?
-I'd love to hear from you! 
+💡 I focus on performance optimization, code readability, maintainability, and reusability.
+
+🔭 I'm currently working on some of my side projects in Android.
+
+🌱 I'm constantly learning and keeping up to date with the latest technologies and trends.
+
+## Languages and Tools:
+
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
+## GitHub Stats:
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=itswrecker&show_icons=true&theme=dracula)
+
+## Connect with me:
+
+Feel free to reach out to me:
+
 - 📧 Email: [santosh.mehta@live.com](mailto:santosh.mehta@live.com)
 - 🔗 LinkedIn: [Santosh Mehta](https://www.linkedin.com/in/wrecker)
+
+## Always remember:
+
+> "The only way to do great work is to love what you do." - Steve Jobs
