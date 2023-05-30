@@ -4,7 +4,7 @@
 
 ## About me
 
-🎓 I'm an experienced Senior Software Engineer with a B.E. degree in Computer Science and over 4 years of experience in native Android development.
+🎓 I'm an experienced Senior Software Engineer, over 4 years of experience in native Android development.
 
 📱 I've been passionate about mobile technologies, I love to build apps that are robust, efficient, and provide a delightful user experience.
 
