@@ -1,36 +1,27 @@
-# Hello World! 🌐 I'm Santosh Mehta, an Android enthusiast! 👨‍💻
+# Hi there! 👋 I'm Wrecker, a passionate Software Engineer with a focus on Android Development 📱
 
-![Profile views](https://gpvc.arturio.dev/itswrecker) ![Years Badge](https://badges.pufler.dev/years/itswrecker) ![Repos Badge](https://badges.pufler.dev/repos/itswrecker)
+## About Me 🚀
 
-## About me
+With over 5 years of hands-on experience, I've honed my skills in crafting dynamic and seamless user experiences on the Android platform. My journey in app development has been an exhilarating odyssey, driven by my unwavering commitment to engineering resilient and scalable solutions that conquer real-world challenges.
 
-🎓 I'm an experienced Senior Software Engineer, over 4 years of experience in native Android development.
+### 🔧 Skills and Expertise
 
-📱 I've been passionate about mobile technologies, I love to build apps that are robust, efficient, and provide a delightful user experience.
+- **Languages**: Kotlin, Java
+- **Android**: Android Components, Design Patterns
+- **Technologies**: Camera2, MediaCodec, Jetpack Components
 
-🔧 I'm proficient in Kotlin, C++, and Java, with a strong knowledge of Android components, design patterns, and the complete mobile development lifecycle.
+## What I Bring to the Table 🤝
 
-💡 I focus on performance optimization, code readability, maintainability, and reusability.
+I thrive in collaborative ecosystems and have a well-documented track record of writing code that delivers palpable outcomes. My dedication to staying a step ahead of industry trends guarantees that my solutions are perpetually pulsating with innovation.
 
-🔭 I'm currently working on some of my side projects in Android.
+## Achievements 🌟
 
-🌱 I'm constantly learning and keeping up to date with the latest technologies and trends.
+As I journey through my professional tapestry, I've orchestrated the creation and evolution of multiple modules from their nascent stages. In these endeavors, my technical stewardship has been the linchpin, resulting in the birth of resilient and adaptable solutions.
 
-## Languages and Tools:
+## Beyond the Code 🌐
 
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+Beyond the enchanting world of code, I'm an ardent champion of perpetual learning and elevation. From keeping my fingers on the pulse of the latest breakthroughs to soliciting invaluable insights from end-users, I thrive on pushing the envelope to craft outcomes that resonate with excellence.
 
-## GitHub Stats:
+Feel free to connect with me, and let's collaborate on creating remarkable Android experiences together!
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=itswrecker&show_icons=true&theme=dracula)
-
-## Connect with me:
-
-Feel free to reach out to me:
-
-- 📧 Email: [santosh.mehta@live.com](mailto:santosh.mehta@live.com)
-- 🔗 LinkedIn: [Santosh Mehta](https://www.linkedin.com/in/wrecker)
-
-## Always remember:
-
-> "The only way to do great work is to love what you do." - Steve Jobs
+[LinkedIn](https://www.linkedin.com/in/wrecker]
